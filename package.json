@@ -7,7 +7,7 @@
   "scripts": {
     "watch": "next",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 80",
     "clean": "rm -rf .next"
   },
   "dependencies": {
